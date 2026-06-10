@@ -47,10 +47,9 @@ The application captures live webcam input, analyzes facial expressions, identif
 
 ## Demo Video
 
-Download and watch the project demonstration:
+A complete demonstration of the system is included in this repository.
 
-[🎥 Demo Video](demo.mp4)
-
+➡️ Download: [demo.mp4](demo.mp4)
 ---
 
 ## Project Report
